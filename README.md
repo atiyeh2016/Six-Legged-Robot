@@ -5,4 +5,4 @@ The path is tracked with the PID and the nueral network-based controllers.
 The dynamical equations and the path planning codes and the simmechanics model are provided.
 
 ![My Image](https://github.com/atiyeh2016/Six-Legged-Robot/blob/main/SimmechanicsModelling.png)
-![My Image]()
+![My Image](https://github.com/atiyeh2016/Six-Legged-Robot/blob/main/SimmechanicsModel.png)
